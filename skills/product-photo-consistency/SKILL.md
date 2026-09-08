@@ -155,4 +155,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`product-photo-from-reference`, `camera-angle-variation`, `product-relighting`, `white-background-ecommerce`, `product-photo-batch-pipeline`, `product-image-qa-review`
+`product-photo-from-reference`, `camera-angle-variation`, `product-relighting`, `white-background-ecommerce`, `product-photo-batch-pipeline`, `product-image-qa-review`, `ugc-photo-dump-format`

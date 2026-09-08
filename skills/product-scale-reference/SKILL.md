@@ -159,4 +159,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`product-in-hand-shots`, `furniture-room-scenes`, `jewelry-reflective-products`, `product-detail-macro`, `product-image-qa-review`, `marketplace-image-compliance`
+`product-in-hand-shots`, `furniture-room-scenes`, `jewelry-reflective-products`, `product-detail-macro`, `product-image-qa-review`, `marketplace-image-compliance`, `ugc-haul-format`

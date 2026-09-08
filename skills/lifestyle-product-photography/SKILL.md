@@ -155,4 +155,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`background-replacement-scenes`, `product-in-hand-shots`, `flat-lay-composition`, `seasonal-product-styling`, `product-photo-consistency`, `social-commerce-product-images`
+`background-replacement-scenes`, `product-in-hand-shots`, `flat-lay-composition`, `seasonal-product-styling`, `product-photo-consistency`, `social-commerce-product-images`, `ugc-lifestyle-photos`

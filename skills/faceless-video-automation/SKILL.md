@@ -149,4 +149,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`youtube-shorts-generation`, `batch-video-production`, `character-consistency-video`, `multi-scene-video-assembly`, `video-caption-subtitle-planning`, `video-credit-cost-management`
+`youtube-shorts-generation`, `batch-video-production`, `character-consistency-video`, `multi-scene-video-assembly`, `video-caption-subtitle-planning`, `video-credit-cost-management`, `ugc-asmr-sensory-format`

@@ -135,4 +135,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`white-background-ecommerce`, `amazon-listing-images`, `shopify-product-images`, `etsy-listing-photos`, `product-upscaling-4k`, `product-image-qa-review`
+`white-background-ecommerce`, `amazon-listing-images`, `shopify-product-images`, `etsy-listing-photos`, `product-upscaling-4k`, `product-image-qa-review`, `ugc-tiktok-shop-content`

@@ -136,4 +136,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`tiktok-video-generation`, `instagram-reels-generation`, `multi-scene-video-assembly`, `aspect-ratio-strategy`, `batch-video-production`, `video-duration-pacing`
+`tiktok-video-generation`, `instagram-reels-generation`, `multi-scene-video-assembly`, `aspect-ratio-strategy`, `batch-video-production`, `video-duration-pacing`, `ugc-tutorial-demo`

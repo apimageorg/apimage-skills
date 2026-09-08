@@ -133,4 +133,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`video-hook-first-3-seconds`, `draft-then-enhance-workflow`, `seed-locked-iteration`, `video-credit-cost-management`
+`video-hook-first-3-seconds`, `draft-then-enhance-workflow`, `seed-locked-iteration`, `video-credit-cost-management`, `ugc-batch-testing`

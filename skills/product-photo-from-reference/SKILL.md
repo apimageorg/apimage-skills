@@ -138,4 +138,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`product-photo-consistency`, `background-removal-workflow`, `background-replacement-scenes`, `camera-angle-variation`, `image-model-selection`, `product-image-qa-review`
+`product-photo-consistency`, `background-removal-workflow`, `background-replacement-scenes`, `camera-angle-variation`, `image-model-selection`, `product-image-qa-review`, `ugc-selfie-style-photos`

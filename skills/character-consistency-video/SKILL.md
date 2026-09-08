@@ -152,4 +152,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`image-to-video-animation`, `lip-sync-spokesperson-video`, `seed-locked-iteration`, `multi-scene-video-assembly`
+`image-to-video-animation`, `lip-sync-spokesperson-video`, `seed-locked-iteration`, `multi-scene-video-assembly`, `ugc-character-consistency`

@@ -132,4 +132,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`async-video-job-orchestration`
+`async-video-job-orchestration`, `ugc-disclosure-compliance`

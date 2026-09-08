@@ -162,4 +162,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`image-to-video-animation`, `character-consistency-video`, `multi-scene-video-assembly`, `before-after-transformation-video`, `video-brand-safety-moderation`, `tiktok-video-generation`
+`image-to-video-animation`, `character-consistency-video`, `multi-scene-video-assembly`, `before-after-transformation-video`, `video-brand-safety-moderation`, `tiktok-video-generation`, `ugc-tutorial-demo`

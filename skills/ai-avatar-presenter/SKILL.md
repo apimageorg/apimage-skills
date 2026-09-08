@@ -182,4 +182,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`lip-sync-spokesperson-video`, `character-consistency-video`, `video-brand-safety-moderation`, `image-to-video-animation`, `multi-scene-video-assembly`
+`lip-sync-spokesperson-video`, `character-consistency-video`, `video-brand-safety-moderation`, `image-to-video-animation`, `multi-scene-video-assembly`, `ugc-creator-persona-design`

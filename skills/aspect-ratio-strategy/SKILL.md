@@ -150,4 +150,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`tiktok-video-generation`, `video-model-selection`, `image-to-video-animation`
+`tiktok-video-generation`, `video-model-selection`, `image-to-video-animation`, `ugc-duet-response-format`

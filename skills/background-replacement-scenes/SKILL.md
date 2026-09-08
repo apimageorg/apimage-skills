@@ -168,4 +168,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`background-removal-workflow`, `lifestyle-product-photography`, `product-relighting`, `seasonal-product-styling`, `inpainting-product-fixes`, `product-photo-consistency`
+`background-removal-workflow`, `lifestyle-product-photography`, `product-relighting`, `seasonal-product-styling`, `inpainting-product-fixes`, `product-photo-consistency`, `ugc-lifestyle-photos`

@@ -156,4 +156,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`apparel-product-photography`, `ai-avatar-presenter`, `character-consistency-video`, `product-in-hand-shots`, `product-image-qa-review`, `marketplace-image-compliance`
+`apparel-product-photography`, `ai-avatar-presenter`, `character-consistency-video`, `product-in-hand-shots`, `product-image-qa-review`, `marketplace-image-compliance`, `ugc-diversity-representation`

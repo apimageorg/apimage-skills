@@ -1,6 +1,6 @@
 # APImage Skills
 
-Sixty agent skills for generating marketing video and imagery with [APImage](https://apimage.org) — UGC-style ad video, product clips, spokesperson video and product photography, driven from Claude, Cursor, Codex or any MCP client.
+Ninety agent skills for generating marketing video and imagery with [APImage](https://apimage.org) — viral and UGC ad video, product photography, spokesperson video, and the disclosure and rights questions that come with generating people, driven from Claude, Cursor, Codex or any MCP client.
 
 ```bash
 npx skills add apimageorg/apimage-skills
@@ -14,7 +14,7 @@ Maintained by [APImage](https://apimage.org). MIT licensed.
 
 ## Status
 
-**Viral video: complete (30). Product photo: complete (30).** UGC content generation is next. See [Roadmap](#roadmap).
+**Viral video: complete (30). Product photo: complete (30). UGC content: complete (30).** Ninety skills, all published. Suggestions and pull requests welcome — see [Adding a skill](#adding-a-skill).
 
 ## Connect APImage first
 
@@ -138,6 +138,63 @@ The four that change the economics of everything else. Read these first.
 | [`jewelry-reflective-products`](skills/jewelry-reflective-products/SKILL.md) | The hardest category — halos, reflections, added sparkle |
 | [`furniture-room-scenes`](skills/furniture-room-scenes/SKILL.md) | Scale anchors, perspective, and possible light |
 
+## UGC content
+
+### The format, and the line
+
+| Skill | Covers |
+|---|---|
+| [`ugc-ad-video-generation`](skills/ugc-ad-video-generation/SKILL.md) | The beat structure, the production loop, prompting against polish |
+| [`ugc-vs-polished-decision`](skills/ugc-vs-polished-decision/SKILL.md) | Where rough wins, and where it actively hurts |
+| [`ugc-authenticity-signals`](skills/ugc-authenticity-signals/SKILL.md) | The clause library, and the signals that go too far |
+| [`ugc-disclosure-compliance`](skills/ugc-disclosure-compliance/SKILL.md) | Two separate obligations: AI labelling and endorsement law |
+| [`ugc-legal-likeness-rights`](skills/ugc-legal-likeness-rights/SKILL.md) | Likeness, voice, licences, and what a paid usage grant must say |
+| [`ugc-diversity-representation`](skills/ugc-diversity-representation/SKILL.md) | The model's default is narrow. Unspecified means default |
+
+### Creators and scripts
+
+| Skill | Covers |
+|---|---|
+| [`ugc-creator-persona-design`](skills/ugc-creator-persona-design/SKILL.md) | Design from the audience, not from aesthetics |
+| [`ugc-character-consistency`](skills/ugc-character-consistency/SKILL.md) | Seeds give a look; assets give a person |
+| [`ugc-script-writing`](skills/ugc-script-writing/SKILL.md) | Read it aloud, and include a reservation |
+| [`ugc-hook-library`](skills/ugc-hook-library/SKILL.md) | Twelve patterns, and why the log is the asset |
+| [`ugc-multi-creator-variants`](skills/ugc-multi-creator-variants/SKILL.md) | Who delivers it beats what they say |
+
+### Video formats
+
+| Skill | Covers |
+|---|---|
+| [`ugc-problem-solution-format`](skills/ugc-problem-solution-format/SKILL.md) | The highest-converting structure, usually built backwards |
+| [`ugc-tutorial-demo`](skills/ugc-tutorial-demo/SKILL.md) | Teach the method, not the product |
+| [`ugc-testimonial-video`](skills/ugc-testimonial-video/SKILL.md) | Real words, generated scenery |
+| [`ugc-review-format`](skills/ugc-review-format/SKILL.md) | Criteria instead of a verdict, and disqualifying yourself |
+| [`ugc-unboxing-video`](skills/ugc-unboxing-video/SKILL.md) | Photograph the packaging, and the hands QA pass |
+| [`ugc-asmr-sensory-format`](skills/ugc-asmr-sensory-format/SKILL.md) | The best fit for generation: no face, no claims |
+| [`ugc-day-in-the-life`](skills/ugc-day-in-the-life/SKILL.md) | Light describes the time. Product in half the beats |
+| [`ugc-get-ready-with-me`](skills/ugc-get-ready-with-me/SKILL.md) | Order of application, and real skin |
+| [`ugc-haul-format`](skills/ugc-haul-format/SKILL.md) | Ten items, and eight price claims on screen |
+| [`ugc-comment-reaction-format`](skills/ugc-comment-reaction-format/SKILL.md) | Your audience writes the hook. Never fabricate the comment |
+| [`ugc-duet-response-format`](skills/ugc-duet-response-format/SKILL.md) | The half-frame crop, and what you may react to |
+| [`ugc-street-interview-format`](skills/ugc-street-interview-format/SKILL.md) | The worst format to generate, and the quote reel instead |
+
+### Stills and commerce
+
+| Skill | Covers |
+|---|---|
+| [`ugc-selfie-style-photos`](skills/ugc-selfie-style-photos/SKILL.md) | Deep focus is the clause that kills the studio look |
+| [`ugc-lifestyle-photos`](skills/ugc-lifestyle-photos/SKILL.md) | An ordinary room, and matching it to the buyer |
+| [`ugc-photo-dump-format`](skills/ugc-photo-dump-format/SKILL.md) | Vary the seed on purpose. Keep the weak image |
+| [`ugc-tiktok-shop-content`](skills/ugc-tiktok-shop-content/SKILL.md) | No landing page, so the video answers the objection |
+| [`ugc-affiliate-creative`](skills/ugc-affiliate-creative/SKILL.md) | Burn the disclosure into the asset |
+
+### Testing
+
+| Skill | Covers |
+|---|---|
+| [`ugc-batch-testing`](skills/ugc-batch-testing/SKILL.md) | Sequential beats factorial, and draft everything first |
+| [`ugc-performance-iteration`](skills/ugc-performance-iteration/SKILL.md) | Read the metric, fix the beat, not the video |
+
 ## What the skills are built on
 
 They encode the parts of APImage that aren't obvious from the tool list:
@@ -164,12 +221,6 @@ The skills take a position rather than staying quiet:
 - **Don't present a synthetic person as a real customer.** That's a false endorsement, and an advertising-standards problem in many jurisdictions independent of platform policy.
 - **Label AI content** where the platform requires it. TikTok and others apply their own detection and can limit distribution on undisclosed synthetic media.
 - **Generated visuals don't get a lower bar for claim substantiation.** A clip demonstrating something the product doesn't do is a false claim however it was produced.
-
-## Roadmap
-
-Next, in order:
-
-**UGC content generation (30)** — UGC ad video, authenticity signals, creator persona design, testimonial and unboxing and tutorial formats, hook libraries, scripting, multi-creator variants, platform-native formatting, disclosure compliance, and performance iteration
 
 ## Adding a skill
 

@@ -141,4 +141,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`character-consistency-video`, `draft-then-enhance-workflow`, `text-to-video-prompting`, `async-video-job-orchestration`, `video-hook-first-3-seconds`
+`character-consistency-video`, `draft-then-enhance-workflow`, `text-to-video-prompting`, `async-video-job-orchestration`, `video-hook-first-3-seconds`, `ugc-day-in-the-life`

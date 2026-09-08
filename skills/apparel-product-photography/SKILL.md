@@ -132,4 +132,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`model-wearing-product`, `flat-lay-composition`, `product-detail-macro`, `white-background-ecommerce`, `product-image-qa-review`, `jewelry-reflective-products`
+`model-wearing-product`, `flat-lay-composition`, `product-detail-macro`, `white-background-ecommerce`, `product-image-qa-review`, `jewelry-reflective-products`, `ugc-get-ready-with-me`

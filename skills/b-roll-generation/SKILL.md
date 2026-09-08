@@ -147,4 +147,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`multi-scene-video-assembly`, `batch-video-production`, `text-to-video-prompting`, `video-credit-cost-management`, `lip-sync-spokesperson-video`
+`multi-scene-video-assembly`, `batch-video-production`, `text-to-video-prompting`, `video-credit-cost-management`, `lip-sync-spokesperson-video`, `ugc-testimonial-video`

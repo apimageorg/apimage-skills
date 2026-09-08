@@ -184,4 +184,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`async-video-job-orchestration`, `draft-then-enhance-workflow`, `video-credit-cost-management`, `video-ab-testing-variants`, `character-consistency-video`, `video-brand-safety-moderation`
+`async-video-job-orchestration`, `draft-then-enhance-workflow`, `video-credit-cost-management`, `video-ab-testing-variants`, `character-consistency-video`, `video-brand-safety-moderation`, `ugc-batch-testing`

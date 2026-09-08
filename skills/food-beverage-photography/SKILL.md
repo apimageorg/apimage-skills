@@ -154,4 +154,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`background-replacement-scenes`, `flat-lay-composition`, `jewelry-reflective-products`, `seasonal-product-styling`, `product-image-qa-review`, `packaging-mockup-generation`
+`background-replacement-scenes`, `flat-lay-composition`, `jewelry-reflective-products`, `seasonal-product-styling`, `product-image-qa-review`, `packaging-mockup-generation`, `ugc-asmr-sensory-format`

@@ -151,4 +151,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`product-scale-reference`, `inpainting-product-fixes`, `lifestyle-product-photography`, `model-wearing-product`, `product-image-qa-review`, `background-replacement-scenes`
+`product-scale-reference`, `inpainting-product-fixes`, `lifestyle-product-photography`, `model-wearing-product`, `product-image-qa-review`, `background-replacement-scenes`, `ugc-selfie-style-photos`

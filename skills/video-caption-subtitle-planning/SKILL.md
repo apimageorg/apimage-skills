@@ -153,4 +153,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`aspect-ratio-strategy`, `video-hook-first-3-seconds`, `tiktok-video-generation`, `multi-scene-video-assembly`, `video-thumbnail-generation`
+`aspect-ratio-strategy`, `video-hook-first-3-seconds`, `tiktok-video-generation`, `multi-scene-video-assembly`, `video-thumbnail-generation`, `ugc-tutorial-demo`

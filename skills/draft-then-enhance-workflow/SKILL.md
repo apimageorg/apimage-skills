@@ -146,4 +146,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`video-model-selection`, `async-video-job-orchestration`, `seed-locked-iteration`, `video-credit-cost-management`, `video-ab-testing-variants`
+`video-model-selection`, `async-video-job-orchestration`, `seed-locked-iteration`, `video-credit-cost-management`, `video-ab-testing-variants`, `ugc-batch-testing`

@@ -169,4 +169,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`image-model-selection`, `food-beverage-photography`, `marketplace-image-compliance`, `product-photo-from-reference`, `multi-product-scene`, `product-image-qa-review`
+`image-model-selection`, `food-beverage-photography`, `marketplace-image-compliance`, `product-photo-from-reference`, `multi-product-scene`, `product-image-qa-review`, `ugc-unboxing-video`

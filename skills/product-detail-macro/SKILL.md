@@ -156,4 +156,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`apparel-product-photography`, `jewelry-reflective-products`, `product-relighting`, `product-upscaling-4k`, `product-scale-reference`, `product-image-qa-review`
+`apparel-product-photography`, `jewelry-reflective-products`, `product-relighting`, `product-upscaling-4k`, `product-scale-reference`, `product-image-qa-review`, `ugc-asmr-sensory-format`

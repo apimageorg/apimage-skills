@@ -144,4 +144,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`tiktok-video-generation`, `aspect-ratio-strategy`, `video-caption-subtitle-planning`, `video-hook-first-3-seconds`, `video-duration-pacing`, `video-brand-safety-moderation`
+`tiktok-video-generation`, `aspect-ratio-strategy`, `video-caption-subtitle-planning`, `video-hook-first-3-seconds`, `video-duration-pacing`, `video-brand-safety-moderation`, `ugc-vs-polished-decision`

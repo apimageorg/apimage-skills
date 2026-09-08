@@ -134,4 +134,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`lip-sync-spokesperson-video`, `video-caption-subtitle-planning`, `multi-scene-video-assembly`, `trend-format-replication`, `video-duration-pacing`, `before-after-transformation-video`
+`lip-sync-spokesperson-video`, `video-caption-subtitle-planning`, `multi-scene-video-assembly`, `trend-format-replication`, `video-duration-pacing`, `before-after-transformation-video`, `ugc-asmr-sensory-format`

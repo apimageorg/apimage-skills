@@ -142,4 +142,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`character-consistency-video`, `multi-scene-video-assembly`, `video-credit-cost-management`
+`character-consistency-video`, `multi-scene-video-assembly`, `video-credit-cost-management`, `ugc-ad-video-generation`

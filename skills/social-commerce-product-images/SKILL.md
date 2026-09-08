@@ -157,4 +157,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`lifestyle-product-photography`, `flat-lay-composition`, `seasonal-product-styling`, `aspect-ratio-strategy`, `tiktok-video-generation`, `video-ab-testing-variants`
+`lifestyle-product-photography`, `flat-lay-composition`, `seasonal-product-styling`, `aspect-ratio-strategy`, `tiktok-video-generation`, `video-ab-testing-variants`, `ugc-tiktok-shop-content`

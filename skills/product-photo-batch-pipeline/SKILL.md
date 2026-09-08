@@ -194,4 +194,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`product-photo-consistency`, `product-image-qa-review`, `background-removal-workflow`, `image-model-selection`, `marketplace-image-compliance`, `batch-video-production`
+`product-photo-consistency`, `product-image-qa-review`, `background-removal-workflow`, `image-model-selection`, `marketplace-image-compliance`, `batch-video-production`, `ugc-haul-format`

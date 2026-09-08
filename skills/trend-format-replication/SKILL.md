@@ -141,4 +141,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`tiktok-video-generation`, `multi-scene-video-assembly`, `video-hook-first-3-seconds`, `batch-video-production`, `video-brand-safety-moderation`
+`tiktok-video-generation`, `multi-scene-video-assembly`, `video-hook-first-3-seconds`, `batch-video-production`, `video-brand-safety-moderation`, `ugc-duet-response-format`

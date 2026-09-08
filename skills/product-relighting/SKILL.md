@@ -162,4 +162,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`background-replacement-scenes`, `product-photo-consistency`, `camera-angle-variation`, `product-upscaling-4k`, `inpainting-product-fixes`, `image-model-selection`
+`background-replacement-scenes`, `product-photo-consistency`, `camera-angle-variation`, `product-upscaling-4k`, `inpainting-product-fixes`, `image-model-selection`, `ugc-asmr-sensory-format`

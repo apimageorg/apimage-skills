@@ -166,4 +166,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`marketplace-image-compliance`, `product-photo-consistency`, `camera-angle-variation`, `inpainting-product-fixes`, `white-background-ecommerce`, `product-photo-batch-pipeline`
+`marketplace-image-compliance`, `product-photo-consistency`, `camera-angle-variation`, `inpainting-product-fixes`, `white-background-ecommerce`, `product-photo-batch-pipeline`, `ugc-photo-dump-format`

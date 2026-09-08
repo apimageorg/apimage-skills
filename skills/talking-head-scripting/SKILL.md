@@ -156,4 +156,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`lip-sync-spokesperson-video`, `ai-avatar-presenter`, `b-roll-generation`, `video-duration-pacing`, `video-credit-cost-management`
+`lip-sync-spokesperson-video`, `ai-avatar-presenter`, `b-roll-generation`, `video-duration-pacing`, `video-credit-cost-management`, `ugc-script-writing`

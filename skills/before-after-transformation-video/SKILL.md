@@ -153,4 +153,4 @@ claude mcp add --transport http apimage https://mcp.apimage.org/mcp \
 
 ## Related skills
 
-`product-demo-video`, `multi-scene-video-assembly`, `video-brand-safety-moderation`, `image-to-video-animation`, `video-hook-first-3-seconds`
+`product-demo-video`, `multi-scene-video-assembly`, `video-brand-safety-moderation`, `image-to-video-animation`, `video-hook-first-3-seconds`, `ugc-problem-solution-format`
