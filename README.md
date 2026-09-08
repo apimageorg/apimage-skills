@@ -14,7 +14,7 @@ Maintained by [APImage](https://apimage.org). MIT licensed.
 
 ## Status
 
-**Viral video generation: 15 of 30 published.** Product photo generation and UGC content generation are next. See [Roadmap](#roadmap).
+**Viral video generation: complete — all 30 published.** Product photo generation and UGC content generation are next. See [Roadmap](#roadmap).
 
 ## Connect APImage first
 
@@ -57,19 +57,39 @@ The four that change the economics of everything else. Read these first.
 | [`video-model-selection`](skills/video-model-selection/SKILL.md) | Choosing between the five video models, and matching resolution to destination |
 | [`text-to-video-prompting`](skills/text-to-video-prompting/SKILL.md) | Prompting motion and camera, not just a frame |
 | [`image-to-video-animation`](skills/image-to-video-animation/SKILL.md) | Animating a real product photo instead of letting the model invent one |
+| [`video-to-video-restyling`](skills/video-to-video-restyling/SKILL.md) | Restyling existing footage, where the motion is inherited rather than invented |
 | [`multi-scene-video-assembly`](skills/multi-scene-video-assembly/SKILL.md) | Generating beats and cutting them, rather than one long drifting clip |
+| [`video-duration-pacing`](skills/video-duration-pacing/SKILL.md) | Duration as a budget for beats, and cut rhythm |
 | [`character-consistency-video`](skills/character-consistency-video/SKILL.md) | Brand assets, so the presenter and product stay the same across a campaign |
+| [`ai-avatar-presenter`](skills/ai-avatar-presenter/SKILL.md) | Building a reusable synthetic presenter you own the rights to |
 | [`lip-sync-spokesperson-video`](skills/lip-sync-spokesperson-video/SKILL.md) | Talking avatars, the 30s cap and the 3-credits-per-second reality |
+| [`talking-head-scripting`](skills/talking-head-scripting/SKILL.md) | Scripts that fit the duration and survive lip-sync |
+| [`b-roll-generation`](skills/b-roll-generation/SKILL.md) | Cheap cutaways that cover joins and carry voiceover |
+| [`batch-video-production`](skills/batch-video-production/SKILL.md) | Volume: the concurrency cap, webhooks, budget and reconciliation |
 
 ### Making it perform
 
 | Skill | Covers |
 |---|---|
 | [`video-hook-first-3-seconds`](skills/video-hook-first-3-seconds/SKILL.md) | The opening that decides whether anything else is watched |
-| [`tiktok-video-generation`](skills/tiktok-video-generation/SKILL.md) | Native formatting, sound-off viewing, and platform AI rules |
 | [`aspect-ratio-strategy`](skills/aspect-ratio-strategy/SKILL.md) | Safe areas, and why the bottom third of a vertical video is unusable |
+| [`video-caption-subtitle-planning`](skills/video-caption-subtitle-planning/SKILL.md) | Why text never goes in the render, and where subtitles actually belong |
+| [`video-thumbnail-generation`](skills/video-thumbnail-generation/SKILL.md) | Designing for 200 pixels wide, not for full size |
+| [`music-audio-pairing`](skills/music-audio-pairing/SKILL.md) | Sound design, and the audio licensing that catches people out |
 | [`video-ab-testing-variants`](skills/video-ab-testing-variants/SKILL.md) | Testing one variable at a time so results are reusable |
 | [`video-brand-safety-moderation`](skills/video-brand-safety-moderation/SKILL.md) | `safety_tolerance`, and why passing moderation isn't the same as brand-safe |
+
+### Platforms and formats
+
+| Skill | Covers |
+|---|---|
+| [`tiktok-video-generation`](skills/tiktok-video-generation/SKILL.md) | Native formatting, sound-off viewing, and platform AI rules |
+| [`instagram-reels-generation`](skills/instagram-reels-generation/SKILL.md) | Where Reels rewards polish, and the feed-crop constraint |
+| [`youtube-shorts-generation`](skills/youtube-shorts-generation/SKILL.md) | Search intent, longer tolerance, and titles that actually rank |
+| [`faceless-video-automation`](skills/faceless-video-automation/SKILL.md) | Channels without a presenter, and what the platform policies target |
+| [`product-demo-video`](skills/product-demo-video/SKILL.md) | Keeping the real product accurate while the scene moves |
+| [`before-after-transformation-video`](skills/before-after-transformation-video/SKILL.md) | The highest-retention format, and where the claim line sits |
+| [`trend-format-replication`](skills/trend-format-replication/SKILL.md) | Copying the structure, not the content or the audio |
 
 ## What the skills are built on
 
@@ -101,8 +121,6 @@ The skills take a position rather than staying quiet:
 ## Roadmap
 
 Next, in order:
-
-**Viral video (15 remaining)** — `instagram-reels-generation`, `youtube-shorts-generation`, `faceless-video-automation`, `ai-avatar-presenter`, `product-demo-video`, `before-after-transformation-video`, `video-to-video-restyling`, `video-duration-pacing`, `b-roll-generation`, `video-thumbnail-generation`, `talking-head-scripting`, `trend-format-replication`, `batch-video-production`, `video-caption-subtitle-planning`, `music-audio-pairing`
 
 **Product photo generation (30)** — background removal and replacement, relighting, camera angles, upscaling, inpainting fixes, lifestyle and white-background shots, marketplace compliance for Amazon/Shopify/Etsy, category-specific craft for apparel, food, jewellery and furniture, batch pipelines and QA review
 
