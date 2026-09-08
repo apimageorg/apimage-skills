@@ -1,6 +1,6 @@
 # APImage Skills
 
-Agent skills for generating marketing video and imagery with [APImage](https://apimage.org) — UGC-style ad video, product clips, spokesperson video and product photography, driven from Claude, Cursor, Codex or any MCP client.
+Sixty agent skills for generating marketing video and imagery with [APImage](https://apimage.org) — UGC-style ad video, product clips, spokesperson video and product photography, driven from Claude, Cursor, Codex or any MCP client.
 
 ```bash
 npx skills add apimageorg/apimage-skills
@@ -14,7 +14,7 @@ Maintained by [APImage](https://apimage.org). MIT licensed.
 
 ## Status
 
-**Viral video generation: complete — all 30 published.** Product photo generation and UGC content generation are next. See [Roadmap](#roadmap).
+**Viral video: complete (30). Product photo: complete (30).** UGC content generation is next. See [Roadmap](#roadmap).
 
 ## Connect APImage first
 
@@ -91,6 +91,53 @@ The four that change the economics of everything else. Read these first.
 | [`before-after-transformation-video`](skills/before-after-transformation-video/SKILL.md) | The highest-retention format, and where the claim line sits |
 | [`trend-format-replication`](skills/trend-format-replication/SKILL.md) | Copying the structure, not the content or the audio |
 
+## Product photography
+
+### Tools and workflow
+
+| Skill | Covers |
+|---|---|
+| [`image-model-selection`](skills/image-model-selection/SKILL.md) | The five image models, and why FLUX can't do text |
+| [`product-photo-from-reference`](skills/product-photo-from-reference/SKILL.md) | The core loop: real photo in, accurate variations out |
+| [`background-removal-workflow`](skills/background-removal-workflow/SKILL.md) | `remove_background` at 2 credits, and the white-and-black edge test |
+| [`background-replacement-scenes`](skills/background-replacement-scenes/SKILL.md) | `replace_background` at 3 credits — it relights the subject |
+| [`product-relighting`](skills/product-relighting/SKILL.md) | Changing light without losing the composition |
+| [`camera-angle-variation`](skills/camera-angle-variation/SKILL.md) | Which angles are derivable, and which get invented |
+| [`inpainting-product-fixes`](skills/inpainting-product-fixes/SKILL.md) | Masked repair instead of regenerating |
+| [`product-upscaling-4k`](skills/product-upscaling-4k/SKILL.md) | Meeting zoom thresholds, and what upscaling can't recover |
+| [`product-photo-consistency`](skills/product-photo-consistency/SKILL.md) | Brand assets and verbatim look clauses across a catalogue |
+| [`product-photo-batch-pipeline`](skills/product-photo-batch-pipeline/SKILL.md) | Catalogue scale: rate limits, budget, reconciliation |
+| [`product-image-qa-review`](skills/product-image-qa-review/SKILL.md) | The artefacts and accuracy failures that pass a glance |
+
+### Shot types
+
+| Skill | Covers |
+|---|---|
+| [`white-background-ecommerce`](skills/white-background-ecommerce/SKILL.md) | Exact 255,255,255, 85% fill, and the shadow rules |
+| [`lifestyle-product-photography`](skills/lifestyle-product-photography/SKILL.md) | Context, and why imperfection reads as real |
+| [`flat-lay-composition`](skills/flat-lay-composition/SKILL.md) | Overhead composition, negative space, prop discipline |
+| [`product-in-hand-shots`](skills/product-in-hand-shots/SKILL.md) | Scale and use — and giving the model less hand to get wrong |
+| [`model-wearing-product`](skills/model-wearing-product/SKILL.md) | On-model, with the likeness and fit constraints |
+| [`product-detail-macro`](skills/product-detail-macro/SKILL.md) | Raking light, and why stitch quality must be photographed |
+| [`multi-product-scene`](skills/multi-product-scene/SKILL.md) | Range shots — count them, and measure relative scale |
+| [`packaging-mockup-generation`](skills/packaging-mockup-generation/SKILL.md) | Generate the form, overlay the artwork. Never the copy |
+| [`product-scale-reference`](skills/product-scale-reference/SKILL.md) | Cutting size-driven returns |
+| [`seasonal-product-styling`](skills/seasonal-product-styling/SKILL.md) | One master, every season, at 3 credits a scene |
+
+### Channels and categories
+
+| Skill | Covers |
+|---|---|
+| [`marketplace-image-compliance`](skills/marketplace-image-compliance/SKILL.md) | The rules across marketplaces, and AI disclosure |
+| [`amazon-listing-images`](skills/amazon-listing-images/SKILL.md) | Main image spec, and what each gallery slot is for |
+| [`shopify-product-images`](skills/shopify-product-images/SKILL.md) | Collection consistency, variant images, page weight |
+| [`etsy-listing-photos`](skills/etsy-listing-photos/SKILL.md) | Where polish actively hurts |
+| [`social-commerce-product-images`](skills/social-commerce-product-images/SKILL.md) | Native beats catalogue-clean |
+| [`apparel-product-photography`](skills/apparel-product-photography/SKILL.md) | Ghost mannequin, fabric, and colour as the return driver |
+| [`food-beverage-photography`](skills/food-beverage-photography/SKILL.md) | Appetising, and the regulatory line on portions |
+| [`jewelry-reflective-products`](skills/jewelry-reflective-products/SKILL.md) | The hardest category — halos, reflections, added sparkle |
+| [`furniture-room-scenes`](skills/furniture-room-scenes/SKILL.md) | Scale anchors, perspective, and possible light |
+
 ## What the skills are built on
 
 They encode the parts of APImage that aren't obvious from the tool list:
@@ -121,8 +168,6 @@ The skills take a position rather than staying quiet:
 ## Roadmap
 
 Next, in order:
-
-**Product photo generation (30)** — background removal and replacement, relighting, camera angles, upscaling, inpainting fixes, lifestyle and white-background shots, marketplace compliance for Amazon/Shopify/Etsy, category-specific craft for apparel, food, jewellery and furniture, batch pipelines and QA review
 
 **UGC content generation (30)** — UGC ad video, authenticity signals, creator persona design, testimonial and unboxing and tutorial formats, hook libraries, scripting, multi-creator variants, platform-native formatting, disclosure compliance, and performance iteration
 
